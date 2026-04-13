@@ -1,29 +1,23 @@
 # Hummingbird
 
-Hummingbird is a real estate transaction platform designed to empower buyers and sellers to transact without a traditional agent or broker.
+Hummingbird is a real estate transaction platform focused on improving how buyers and sellers complete transactions.
 
 ## Overview
 
-The platform focuses on:
+The platform explores:
 
 - Direct buyer and seller interaction
-- Simplified transaction workflows
-- Integrated services (lenders, title, etc.)
-- Data-driven decision support
-- Trust and identity-focused design
+- Transaction workflow design
+- Integration with industry services (lending, title, etc.)
+- Data-informed decision support
+- Trust and identity systems
 
 ## Purpose
 
-This repository represents early-stage system thinking, product design, and architecture concepts for the Hummingbird platform.
-
-## Areas of focus
-
-- Buyer and seller workflows
-- Transaction process design
-- System architecture
-- Integration strategies
-- User experience concepts
+This repository represents early-stage system thinking, product design, and architecture exploration.
 
 ## Status
 
-Active development and iteration.
+Active development and strategic refinement.
+
+Certain details are intentionally abstracted to protect proprietary work.
